@@ -1,0 +1,26 @@
+{
+  "name": "pkeenumerablesequencestests",
+  "version": "1.0.0",
+  "description": "tests for enumerable sequences",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true,
+    "rootDir": "./",
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
+  "keywords": [
+    "tests"
+  ],
+  "author": "James McBride",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^22.4.4",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^22.4.4"
+  }
+}
