@@ -1,11 +1,11 @@
 {
-  "name": "pkeenumerablesequences",
+  "name": "pkesequences",
   "version": "1.0.0",
   "description": "enumerable sequences for javascript",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Poo-kie/pkeEnumerableSequences.git"
+    "url": "git+https://github.com/Poo-kie/sequences.git"
   },
   "keywords": [
     "enumerable",
@@ -14,9 +14,8 @@
   "author": "James McBride",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Poo-kie/pkeEnumerableSequences/issues"
+    "url": "https://github.com/Poo-kie/sequences/issues"
   },
-  "homepage": "https://github.com/Poo-kie/pkeEnumerableSequences#readme",
-  "devDependencies": {
-  }
+  "homepage": "https://github.com/Poo-kie/sequences#readme",
+  "devDependencies": {}
 }
